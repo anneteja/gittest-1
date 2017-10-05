@@ -1,0 +1,5 @@
+a=input("enter the num")
+if a%2==0 :
+   print 'a is even'
+elif a%2>0 :
+   print 'a is odd'
