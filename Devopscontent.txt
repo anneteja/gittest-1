@@ -1,0 +1,184 @@
+1. Introduction to DevOps
+What is Devops, Definition, Roles, Necessities, Problems & Solutions,
+Making a Transition,
+Devops cloud computing,
+Identifying cultural impediments and overcoming it,
+Networking Concepts from an enterprise prospective,
+Infrastructure layouts and its Challenges,
+Scalability and Availability.
+Getting what you need.
+
+
+
+2. Common Infrastructure for Devops:
+Basic Concepts:
+DNS server, how to install, DNS configuration and tuning, web servers, HA.
+DNS Server at Internet Scale, Devops tools, DNS Installation, DNS Configuration,
+DNS Tuning, Understand the working of Geo location, Web Servers like Apache,
+Ngnix and their differences, Configure Apache and Nginx for the Enterprise,
+Understand HA and Setup HA Proxy for various Servers, Setup NFS and Open-filer for storage presentation,
+Build and release and its Importance
+Source control tool, Devops automation
+Configure SVN or Git for version control, release management
+Overview of Jenkins for Build and deployments, Building an RPM package, automated deployment tools
+Installation and Configuration of Puppet for deployments, Its usage and general idea
+Virtualization:
+What is Virtualization?
+Types of Virtualization, VMware, KVM.
+Understand the various components of virtualization,
+Introduction to the Cloud virtualization.
+Logging and Monitoring Tools:
+Various logging tools,
+Understand System auditing,
+Install and Configure Nagios Monitoring for the Infrastructure
+
+
+3. Cloud Computing with AWS
+Overview of Cloud-Computing, Concepts and Challenges.
+Cloud-Computing service Providers.
+Overview of AWS
+The history of AWS
+Overview of Services of AWS
+Identity Access Management (IAM)
+Console and All about IAM
+IAM Lab
+EC2 - The heart of AWS
+Introduction & Overview
+Launching an EC2 Instance
+Security Groups Basics
+Volumes and Snapshots
+Working with AMI
+Load Balancers & Health Checks
+CloudWatch EC2
+The AWS CLI & EC2
+Using IAM roles with EC2
+Using Bootstrap Scripts
+EC2 Instance Meta-data
+Autoscalinggroup
+EC2 Placement Groups
+EFS - Concepts & Other Concepts
+AWS Object Storage and CDN
+All about S3
+Create an S3 Bucket
+Version Control
+Lifecycle Management & Glacier
+CloudFront- Create a CDN
+S3 - Security & Encryption
+Storage Gateway
+Import/Export (Snowball)
+S3 Transfer Acceleration
+Route53
+DNS 101
+Route53 - Lab
+Route53 - Routing Policies
+E.Introduction to Databases on AWS
+Databases
+Launching an RDS Instance
+Backups, Multi-AZ & Read Replicas
+DynamoDB, RedShift, Elasticache, Aurora
+Aws and Devops
+CodePipeline
+CodeBuild
+CodeDeploy
+CodeCommit
+
+
+
+4. Python Scripting:
+Overview
+Python Features
+Python Environment
+Local Environment Setup
+Executing Python
+Interactive Mode
+Scripting Mode
+Integrated Development Environment
+Python Identifiers
+Reserved Words
+Lines and Indentation
+Assigning Values to Variables
+Multiple Assignment
+Standard Data Types
+Data Type Conversion
+Arithmetic Operators
+Comparison Operators
+Assignment Operators
+Bitwise Operators
+Logical Operators
+Membership Operators
+Identity Operators
+Operators Precedence
+IF statements
+IF...ELIF...ELSE Statements
+Nested IF statements
+Python Loops
+Break control statement
+Continue statement
+Pass statement
+Python Numbers
+Random number function
+Trigonometric function
+Python Strings
+Built in string methods
+Python Lists
+Indexing and slicing
+Built in functions and methods
+Python Tuples
+Python Dictionary
+Python Functions
+Pass by reference and value
+Function Arguments
+Scope of variables
+Python Modules
+Namespaces and scoping
+Packages
+Python Files I/O
+
+
+5. Jenkins: Automated Build and Test system
+Overview of Jenkins and Continuous Integration
+Exploring UI of Jenkins
+Create Our First Jenkins Job
+Setting up build jobs with Security
+Configure Jenkins to Work with Git
+Implementing Automated Testing
+Node and Master-slave Configuration
+Automated Deployment and Continuous Delivery
+Admin tasks and Do’s and Donts.
+Integrating Jenkins with AWS
+
+
+
+6. Chef: Automated Configuration Manager
+What is Chef?
+Common Chef Terminology
+Chef Server
+Chef Workstation
+Chef Workstation - Looking At Security AndConfigs
+Chef-Repo
+Chef-Client
+Servers And Nodes
+Chef Configuration Concepts
+Chef Cookbook
+Chef Recipes
+Node-Object and Node Attributes
+Data Bags
+Chef Environment
+Chef-Roles
+Deploying nodes in production.
+
+
+7. Project- Putting it All Together:
+Deploying a fault tolerant Word Press Site on Cloud
+Setting Up Environment
+Setting Up EC2
+Automation & Setting Up AMI
+Configuring Autoscaling& Load Testing
+CloudFormation Templates
+
+
+
+
+
+
+
